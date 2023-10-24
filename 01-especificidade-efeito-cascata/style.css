@@ -1,0 +1,31 @@
+
+
+/* no exemplo abaixo a hierarquia da cascata vai se sempre o de baixo  exeto se tiver um <style> no html </style> comentado com  ponto e virgula */
+
+.container-cascata {
+    background-color: aqua;
+}
+
+.container-cascata {
+    background-color:brown;
+}
+
+
+/*  se vc retirar o [;] apos o red o important valera, e sera aplicado a cor */
+
+/* #cascata-especifica {
+    background-color: red;      !important; aq na hierarqia o !important é o mais forte
+} */
+
+
+/* aq vai ser aplicado o seletor mais especifico com o valor e o atributo junto  */
+
+p {
+    background-color: pink;
+}
+
+.cascata-especifica p {
+    background-color: green;
+}
+
+/* exeto se estiver com um estilo definido na html EX:<p id="cascata-especifica" style="background-color: blue;"> */
