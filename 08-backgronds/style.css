@@ -1,0 +1,41 @@
+p {
+    color: coral;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bg {
+    background-color: lightgreen;
+    background-image: url(./image/Screenshot_1.png);
+}
+
+.bg-image{
+    width: 850px;
+    height: 554px;
+}
+
+.bg-repet {
+    background-repeat:repeat-x;
+    height: 554px;
+}
+
+.bg-seze-cover {
+    background-size: cover;
+    height: 554px;
+}
+
+.bg-fixed {
+    background-attachment: fixed;
+    height: 554px;
+} 
+
+/* .bg-position {
+    background-position: left;
+    height: 554px;
+    background-repeat: no-repeat;
+} */
+
+.bg-position {
+    height: 554px;
+    background: #000 url(./image/Screenshot_1.png) no-repeat right top ;
+}

@@ -1,0 +1,16 @@
+a {
+    cursor: pointer;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    color: aqua;
+    background-color: brown;
+}

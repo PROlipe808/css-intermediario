@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 1;
+}
+
+h2 {
+    font-size: 50px;
+}
+ul {
+    font-size: 40px;
+    /* list-style-type: url(./image/Screenshot_7.png); */
+}
+
+ul li{
+    list-style: square inside url(./image/Screenshot_7.png);
+    border: 1px solid;
+    background-color: blue;
+}
+
+ol li {
+    font-size: 40px;
+    border: solid;
+    background-color: silver;
+    list-style: square inside url(./image/Screenshot_7.png);
+}
+
+
+
+
+
