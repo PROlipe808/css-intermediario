@@ -1,3 +1,26 @@
+.fundo-alinhamento {
+  padding: 20px;
+  background-color: #D1C4E9;
+}
+
+.fundo-transform {
+  padding: 20px;
+  background-color: #C8E6C9;
+}
+
+.fundo-decoration {
+  padding: 20px;
+  background-color: #FFF9C4;
+}
+
+.fundo {
+  padding: 20px;
+  background-color: #ccc;
+}
+
+html {
+  font-size: 24px;
+}
 /* -------------------------------------- */
 /* ------------ TEXT ALIGN -------------- */
 /* -------------------------------------- */
@@ -63,26 +86,3 @@
 /* -------------------------------------- */
 /* --------------- GERAL  --------------- */
 /* -------------------------------------- */
-.fundo-alinhamento {
-  padding: 20px;
-  background-color: #D1C4E9;
-}
-
-.fundo-transform {
-  padding: 20px;
-  background-color: #C8E6C9;
-}
-
-.fundo-decoration {
-  padding: 20px;
-  background-color: #FFF9C4;
-}
-
-.fundo {
-  padding: 20px;
-  background-color: #ccc;
-}
-
-html {
-  font-size: 24px;
-}

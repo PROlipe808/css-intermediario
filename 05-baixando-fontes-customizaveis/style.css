@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'milky';
+    src: url(./fontes/Boba\ Milky.otf),
+    url(./fontes/Boba\ Milky.ttf);
+}
+
+
+p {
+    font-size: 50px;
+    font-family: 'milky','Courier New', Courier, monospace;
+}
