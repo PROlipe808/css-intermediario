@@ -1,0 +1,31 @@
+.icom {
+    font-size: 100px;
+}
+
+.fa-reddit-alien{
+    color: lightskyblue;
+    background-color: lightslategray;
+
+}
+
+:hover {
+    color: pink;
+}
+
+.fa-facebook-square {
+    color: blueviolet;
+}
+
+.fa-globe {
+    color: blue;
+}
+
+
+.fa-telegram {
+    color: black;
+}
+
+.fa-square-twitter{
+    color: midnightblue;
+}
+
